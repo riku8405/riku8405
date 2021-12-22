@@ -1,3 +1,3 @@
-Hello, world!
+![Views](https://komarev.com/ghpvc/?username=ajl223)
 
-Trying to find my way
+Hello, world!
